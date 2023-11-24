@@ -1,29 +1,37 @@
-body {
-    margin: 0;
-    overflow: hidden; /* Evita el desbordamiento de la línea diagonal */
+
+.boton{
+    border-radius: 10px; /* Ajusta el valor según lo redondeadas que desees las esquinas */
+    padding: 10px 20px; /* Ajusta el relleno según sea necesario */
+    font-size: 16px; /* Ajusta el tamaño del texto según sea necesario */
+    background-color:#1382ED; /* Color de fondo del botón */
+    color: #fff; /* Color del texto del botón */
+    border: none; /* Elimina el borde del botón */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    margin-top: 150px;
 }
 
-/* .linea-diagonal {
-    width: 1300px; 
-    height: 2px; 
-    background-color: black;
-    position: absolute;
-    top: 38%; 
+svg{
+    height: 20px;
+    width: 20px;
 }
-  
-.izquierda {
-    transform: translateY(-15%) rotate(-15deg); 
-     right: 15; 
-    left: 0 ;
 
+.boton2{
+    background-color: transparent; /* Fondo transparente */
+    border: none; /* Elimina el borde del botón */
+    border-radius: 10px; /* Ajusta el valor según lo redondeadas que desees las esquinas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
 }
-  
 
-.derecha {
-    transform: translateY(-15%) rotate(15deg); 
-    right: 0; 
-    margin-top: 320px;
-} 
+.container{
+    margin-top: 15px;
+}
 
+.col-4{
+    background-color:#88c5fe;
+    border: none; /* Elimina el borde del botón */
+    border-radius: 10px; /* Ajusta el valor según lo redondeadas que desees las esquinas */
+}
 
- */
+p{
+    font-size: x-large;
+}
