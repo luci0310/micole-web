@@ -3,16 +3,16 @@ body {
     overflow: hidden; /* Evita el desbordamiento de la línea diagonal */
 }
 
-.linea-diagonal {
+/* .linea-diagonal {
     width: 1300px; 
-    height: 2px; /* Grosor de la línea */
-    background-color: black; /* Color de la línea, puedes cambiarlo según tus preferencias */
+    height: 2px; 
+    background-color: black;
     position: absolute;
-    top: 38%; /* Posiciona la línea en el centro verticalmente */
+    top: 38%; 
 }
   
 .izquierda {
-    transform: translateY(-15%) rotate(-15deg); /* Rota la línea diagonalmente hacia la izquierda */
+    transform: translateY(-15%) rotate(-15deg); 
      right: 15; 
     left: 0 ;
 
@@ -26,4 +26,4 @@ body {
 } 
 
 
-
+ */
