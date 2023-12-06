@@ -6,11 +6,12 @@
 
 /*Propiedades del logo*/
 .logo{
-    width: 50px; 
-    height: 50px;
-    margin-left: auto;
+    width: 50px; /*ancho*/
+    height: 50px; /*largo*/
+    margin-left: auto; /*para que el logo este alineado */
 }
 
+/*propiedades de los links que esta en el navbar*/
 .navbar-nav{
-    margin-right: auto;
+    margin-right: auto; /*para que el logo este alineado */
 }
