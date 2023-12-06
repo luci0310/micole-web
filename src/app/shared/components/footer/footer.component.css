@@ -3,9 +3,9 @@ footer {
 
     background-color:#1382ED; /*color de fondo*/
     text-align: center; /*para que el texto este alineado en el centro*/
-    position: fixed; /*para que el footer este abajo de la pagina*/
+    position:static; /*para que el footer este abajo de la pagina*/
     bottom: 0; 
-    width: 100%; /*para el ancho*
+    width: 100%; /*para el ancho*/
     background-color:#1382ED;
     color: white;
     text-align: center;
@@ -13,7 +13,7 @@ footer {
     bottom: 0;
     width: 100%;
 
-}   
+}
 
 /*para que la linea sea de color negro*/
 hr{
