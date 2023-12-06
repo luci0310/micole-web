@@ -1,9 +1,11 @@
+/*Propiedades del navbar*/
 .navbar{
-    background-color:#1382ED;
+    background-color:#1382ED; /*color de fondo*/
 }
 
+/*Propiedades del logo*/
 .logo{
-    margin-left: 2px;
-    width: 50px;
-    height: 50px;
+    margin-left: 2px; /*para que el logo este hacia la izquiera*/
+    width: 50px; /*ancho*/
+    height: 50px; /*largo*/
 }
