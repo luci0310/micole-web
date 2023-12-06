@@ -1,4 +1,4 @@
-
+/*propiedades del boton*/
 .boton{
     border-radius: 10px; /* Ajusta el valor según lo redondeadas que desees las esquinas */
     padding: 10px 20px; /* Ajusta el relleno según sea necesario */
@@ -10,11 +10,13 @@
     margin-top: 150px;
 }
 
+/*propiedades de los iconos*/
 svg{
-    height: 20px;
-    width: 20px;
+    height: 20px; /*largo*/
+    width: 20px; /*ancho*/
 }
 
+/*propiedades de otro boton*/
 .boton2{
     background-color: transparent; /* Fondo transparente */
     border: none; /* Elimina el borde del botón */
@@ -22,6 +24,7 @@ svg{
     cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
 }
 
+/*Propiedades del contenedor donde esta todo*/
 .container{
     margin-top: 15px;
 }
@@ -32,6 +35,8 @@ svg{
     border-radius: 10px; /* Ajusta el valor según lo redondeadas que desees las esquinas */
 }
 
+/*Propiedades de la letra*/
 p{
-    font-size: x-large;
+    font-size: x-large; /*Cambia el tamaño de la letra*/
 }
+
