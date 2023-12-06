@@ -1,0 +1,23 @@
+
+footer {
+    background-color:#1382ED;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+}   
+
+hr{
+    color: black;
+}
+
+.boton{
+    background-color:#1382ED;
+    border: none;
+}
+
+svg{
+    height: 20px;
+    width: 20px;
+}
