@@ -1,23 +1,38 @@
-
+/*Son propuiedades del footer*/
 footer {
+
+    background-color:#1382ED; /*color de fondo*/
+    text-align: center; /*para que el texto este alineado en el centro*/
+    position: fixed; /*para que el footer este abajo de la pagina*/
+    bottom: 0; 
+    width: 100%; /*para el ancho*
     background-color:#1382ED;
     color: white;
     text-align: center;
     padding: 20px;
     bottom: 0;
     width: 100%;
+
 }   
 
+/*para que la linea sea de color negro*/
 hr{
     color: black;
 }
 
+/*Para que el color de fondo de los botones sea de ese color*/
 .boton{
     background-color:#1382ED;
     border: none;
 }
 
+/*para darle ancho y largo a los iconos*/
 svg{
     height: 20px;
     width: 20px;
+}
+
+/*Para que el titulo este en color negro*/
+h1{
+    color: black;
 }
