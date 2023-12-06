@@ -30,7 +30,7 @@ svg{
 }
 
 .col-4{
-    background-color:#88c5fe;
+    background-color:#88c5fe; /*color de los bloques*/
     border: none; /* Elimina el borde del botón */
     border-radius: 10px; /* Ajusta el valor según lo redondeadas que desees las esquinas */
 }
